@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eBBTlaFDZeq5JIuZt9pjstD1oD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,9 +26,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.字典">
+  <component name="RunManager" selected="Python.test">
     <configuration name="元组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="meya" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,8 +186,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.字典" />
-        <item itemvalue="Python.递归" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.字符串&amp;格式化" />
         <item itemvalue="Python.元组" />
@@ -249,9 +251,10 @@
       <screen x="0" y="23" width="1680" height="938" />
     </state>
     <state x="683" y="156" key="SettingsEditor/0.23.1680.938@0.23.1680.938" timestamp="1593949705792" />
-    <state x="511" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1593785123924">
-      <screen x="0" y="23" width="1680" height="938" />
+    <state x="584" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1595854994749">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="584" y="336" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595854994749" />
     <state x="511" y="326" key="com.intellij.ide.util.TipDialog/0.23.1680.938@0.23.1680.938" timestamp="1593785123924" />
     <state x="410" y="107" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593829605374">
       <screen x="0" y="23" width="1680" height="938" />
@@ -259,8 +262,8 @@
     <state x="410" y="107" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.938@0.23.1680.938" timestamp="1593829605374" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/meya$test.coverage" NAME="test Coverage Results" MODIFIED="1593953558784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/meya$pratise.coverage" NAME="pratise Coverage Results" MODIFIED="1593830066890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/meya$.coverage" NAME="字典 Coverage Results" MODIFIED="1594132979658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/meya$pratise.coverage" NAME="pratise Coverage Results" MODIFIED="1593830066890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/meya$test.coverage" NAME="test Coverage Results" MODIFIED="1593953558784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
