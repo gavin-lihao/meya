@@ -13,3 +13,6 @@ print(temple2)
 str1='i love you'
 str2=str1[1:5]
 print(str2)
+
+a = 'lihao'
+print(a)
